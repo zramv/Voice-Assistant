@@ -1,0 +1,6 @@
+SpeechRecognition
+arabic_reshaper
+python-bidi
+gTTS
+pygame
+cohere
