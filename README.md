@@ -19,3 +19,14 @@ This voice assistant follows a simple 4-step process using Python libraries and 
 
 5. **Continuous Loop** 
    After speaking the response, the assistant automatically returns to listening for the next question.
+
+
+## Technologies Used
+This project build using the following tools and libraries::
+- **Python**
+- **speech_recognition**
+- **Cohere**
+- **gTTS**
+- **pygame / tempfile**
+
+## Example
