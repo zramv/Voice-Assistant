@@ -1,7 +1,7 @@
 # Voice Assistant
 An intelligent voice assistant that listens to your spoken questions, sends them to an AI model (Cohere), and replies with a spoken answer using text-to-speech.
 
-## ⚙️ How It Works
+## How It Works
 
 This voice assistant follows a simple 4-step process using Python libraries and Cohere AI:
 
